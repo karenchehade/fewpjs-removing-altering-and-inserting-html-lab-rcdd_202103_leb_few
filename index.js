@@ -1,1 +1,1 @@
-// Write your code here!
+body.removeChild(body.querySelector('#main'))
